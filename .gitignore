@@ -1,0 +1,5 @@
+*.swf
+pdf/
+tickets/
+*.svg
+*.csv
